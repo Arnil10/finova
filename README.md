@@ -1,4 +1,4 @@
-# 💰 Finova: Smart Financial Tracker
+# 💰 Finova: Smart Finance Tracker
 
 <table>
 <tr>
